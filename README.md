@@ -1,3 +1,8 @@
+我改了一个版本ruoyi-vue
+1、去掉rerdis，改成本地缓存
+2、去掉nginx部署，直接将静态资源文件通过maven插件打到resources/static下
+3、更改vue router为hash模式，不然链接打开会报错401
+
 访问地址:${host}/index
 
 1、直接将前端静态资源写入frontend/resources下,支持直接部署
