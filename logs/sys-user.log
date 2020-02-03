@@ -1,0 +1,63 @@
+00:02:44.282 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:04:01.667 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:06:38.414 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:07:42.761 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:09:28.090 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:11:31.710 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:18:16.452 [Thread-5] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:20:40.678 [Thread-18] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+00:37:33.872 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+01:03:56.370 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+01:14:39.785 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+01:24:46.428 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+01:27:26.552 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+01:31:29.338 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+01:34:56.100 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+01:35:36.373 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+### The error may exist in file [/Users/chenchuan/Documents/diandabai/diandabai/ruoyi/target/classes/mybatis/system/SysUserMapper.xml]
+### The error may involve com.ruoyi.project.system.mapper.SysUserMapper.selectUserByUserName
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+01:35:41.941 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+01:36:42.403 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+01:36:46.150 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+01:37:46.925 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+11:50:43.577 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+11:50:46.286 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+11:50:47.484 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+11:50:51.873 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+11:51:03.005 [schedule-pool-3] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+11:51:16.390 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Logout][退出成功]
+11:51:40.015 [schedule-pool-4] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+11:59:20.870 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+12:03:58.138 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:04:09.638 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+12:09:13.444 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:09:21.312 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+12:12:12.003 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:12:18.954 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Logout][退出成功]
+12:39:50.992 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+12:40:59.021 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'u.nick_name' in 'field list'
+### The error may exist in file [/Users/chenchuan/Documents/diandabai/diandabai/ruoyi/target/classes/mybatis/system/SysUserMapper.xml]
+### The error may involve com.ruoyi.project.system.mapper.SysUserMapper.selectUserByUserName-Inline
+### The error occurred while setting parameters
+### SQL: select u.user_id, u.dept_id, u.user_name, u.nick_name, u.email, u.avatar, u.phonenumber, u.password, u.sex, u.status, u.del_flag, u.login_ip, u.login_date, u.create_by, u.create_time, u.remark,          d.dept_id, d.parent_id, d.dept_name, d.order_num, d.leader, d.status as dept_status,         r.role_id, r.role_name, r.role_key, r.role_sort, r.data_scope, r.status as role_status         from sys_user u       left join sys_dept d on u.dept_id = d.dept_id       left join sys_user_role ur on u.user_id = ur.user_id       left join sys_role r on r.role_id = ur.role_id         where u.user_name = ?
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'u.nick_name' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'u.nick_name' in 'field list']
+12:41:36.584 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+12:42:30.060 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码已失效]
+12:42:39.714 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:51:38.207 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+12:52:10.151 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+12:54:37.248 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+12:54:43.983 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+13:29:07.780 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+13:29:18.626 [schedule-pool-3] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+13:29:37.607 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]
+20:01:04.174 [schedule-pool-4] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[admin][Success][登录成功]

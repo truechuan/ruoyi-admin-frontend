@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e7e10c8-6a23-437b-a812-dbaade93a919" name="Default" comment="" />
+    <list id="02bf6272-ea91-4f40-b98d-2605356cd4f0" name="New changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/app.b3e0f8fd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-1b248dd2.17fbdc3f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-23780558.9da96fdd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-2c37439c.af7d13f9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-4bb1d32a.d25d820f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-4fdb35d6.d194ea06.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-5f889f89.234ee683.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-680f17d1.8c5edb5c.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-6d2a3716.3d2e0c13.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-b0d57d44.39ac6dec.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-f6752056.2c552267.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-fe23ea96.be71b135.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/css/chunk-libs.da13e127.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/fonts/element-icons.535877f5.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/fonts/element-icons.732389de.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/img/401.089007e7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/img/404.a57b6f31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/img/404_cloud.0f4bc32b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/img/login-background.f9f49138.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/img/logo.4eeb8a8e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/img/profile.473f5971.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/app.bae19eec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-005cb0c7.35635934.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-08486bce.7bad8326.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-16301c8a.61786471.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-17b3a1ca.3da32868.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-1b248dd2.9f6f5003.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-23780558.eb776884.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2c37439c.d1544b77.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0a3b04.5ca0dd0f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0b345c.e3baa79a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0bce05.936d1479.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0c572a.95be91c9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0c77ad.e57f34be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0c8e18.b45f1a05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0cb6e8.1dac7edb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0d0818.f7d8280b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0d6345.ccdcf491.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0da2ea.6f009866.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0de3b1.28ffcabd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0e2366.adef0dd4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d0f012d.e5ad9191.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d20f3bf.81f9cee1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d2105d3.63fcb248.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d217c9e.81cdc552.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d21a3bb.c72b48c0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d22252c.331aa9c6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d230898.c2447db0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-2d238605.463d23d2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-39413ce8.876940d2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-3a08d90c.617acc57.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-3b0424d2.19b5c418.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-4bb1d32a.bc1fa52c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-4fdb35d6.6b57bbb2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-582b2a7a.2fbce829.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-5f889f89.8d12da32.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-680f17d1.8a891316.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-69440159.6fbab14e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-6d2a3716.adc6c194.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-712f179b.8cc8ce59.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-76b6a568.a4a45b16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-7fa21b9b.dad2606c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-89ecf426.872a3ab0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-9b2d5786.d7c8dfc7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-a2efe924.15ea4986.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-adde61aa.b8bff904.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-b0d57d44.00509c72.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-d19c1a98.aebce562.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-elementUI.e6e72cec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-f6752056.83f6be4a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-fe23ea96.4fb941e1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/static/js/chunk-libs.c07e47a2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/app.b3e0f8fd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-1b248dd2.17fbdc3f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-23780558.9da96fdd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-2c37439c.af7d13f9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-4bb1d32a.d25d820f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-4fdb35d6.d194ea06.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-5f889f89.234ee683.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-680f17d1.8c5edb5c.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-6d2a3716.3d2e0c13.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-b0d57d44.39ac6dec.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-f6752056.2c552267.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-fe23ea96.be71b135.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/css/chunk-libs.da13e127.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/fonts/element-icons.535877f5.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/fonts/element-icons.732389de.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/img/401.089007e7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/img/404.a57b6f31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/img/404_cloud.0f4bc32b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/img/login-background.f9f49138.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/img/logo.4eeb8a8e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/img/profile.473f5971.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/app.bae19eec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-005cb0c7.35635934.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-08486bce.7bad8326.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-16301c8a.61786471.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-17b3a1ca.3da32868.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-1b248dd2.9f6f5003.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-23780558.eb776884.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2c37439c.d1544b77.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0a3b04.5ca0dd0f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0b345c.e3baa79a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0bce05.936d1479.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0c572a.95be91c9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0c77ad.e57f34be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0c8e18.b45f1a05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0cb6e8.1dac7edb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0d0818.f7d8280b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0d6345.ccdcf491.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0da2ea.6f009866.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0de3b1.28ffcabd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0e2366.adef0dd4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d0f012d.e5ad9191.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d20f3bf.81f9cee1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d2105d3.63fcb248.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d217c9e.81cdc552.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d21a3bb.c72b48c0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d22252c.331aa9c6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d230898.c2447db0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-2d238605.463d23d2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-39413ce8.876940d2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-3a08d90c.617acc57.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-3b0424d2.19b5c418.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-4bb1d32a.bc1fa52c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-4fdb35d6.6b57bbb2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-582b2a7a.2fbce829.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-5f889f89.8d12da32.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-680f17d1.8a891316.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-69440159.6fbab14e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-6d2a3716.adc6c194.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-712f179b.8cc8ce59.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-76b6a568.a4a45b16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-7fa21b9b.dad2606c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-89ecf426.872a3ab0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-9b2d5786.d7c8dfc7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-a2efe924.15ea4986.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-adde61aa.b8bff904.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-b0d57d44.00509c72.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-d19c1a98.aebce562.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-elementUI.e6e72cec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-f6752056.83f6be4a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-fe23ea96.4fb941e1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/static/js/chunk-libs.c07e47a2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/css/app.b3e0f8fd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/app.bae19eec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-005cb0c7.35635934.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-08486bce.7bad8326.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-17b3a1ca.3da32868.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-1b248dd2.9f6f5003.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2c37439c.d1544b77.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0a3b04.5ca0dd0f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0b345c.e3baa79a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0bce05.936d1479.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0c572a.95be91c9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0c77ad.e57f34be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0c8e18.b45f1a05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0cb6e8.1dac7edb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0d0818.f7d8280b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0da2ea.6f009866.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d0de3b1.28ffcabd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d20f3bf.81f9cee1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d22252c.331aa9c6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-2d230898.c2447db0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-39413ce8.876940d2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-3a08d90c.617acc57.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-3b0424d2.19b5c418.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-4bb1d32a.bc1fa52c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-4fdb35d6.6b57bbb2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-582b2a7a.2fbce829.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-5f889f89.8d12da32.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-680f17d1.8a891316.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-69440159.6fbab14e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-6d2a3716.adc6c194.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-712f179b.8cc8ce59.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-76b6a568.a4a45b16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-7fa21b9b.dad2606c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-89ecf426.872a3ab0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-9b2d5786.d7c8dfc7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-a2efe924.15ea4986.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-adde61aa.b8bff904.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-b0d57d44.00509c72.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-d19c1a98.aebce562.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/static/js/chunk-fe23ea96.4fb941e1.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/sys-error.log" afterPath="$PROJECT_DIR$/logs/sys-error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/sys-info.log" afterPath="$PROJECT_DIR$/logs/sys-info.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/sys-user.log" afterPath="$PROJECT_DIR$/logs/sys-user.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/index.html" afterPath="$PROJECT_DIR$/ruoyi-frontend/target/classes/static/index.html" />
+    </list>
+    <ignored path="RuoYi-Vue.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/ruoyi/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ruoyi-frontend/target/" />
+    <ignored path="$PROJECT_DIR$/ddb-feature/target/" />
+    <ignored path="$PROJECT_DIR$/ruoyi-ui/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RuoYi-Vue" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-druid.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi/src/main/resources/application-druid.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="91" column="7" selection-start-line="91" selection-start-column="7" selection-end-line="91" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Logo.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/layout/components/Sidebar/Logo.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/views/login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ry_20191202.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi/sql/ry_20191202.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="674" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Navbar.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/layout/components/Navbar.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <marker date="1580702358000" expanded="true" signature="380:543" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ruoyi/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="108" column="22" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-735">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ruoyi/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/logs/sys-info.log" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/redis/RedisMockCache.java" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/monitor/controller/SysUserOnlineController.java" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/redis/RedisCache.java" />
+        <option value="$PROJECT_DIR$/ddb-feature/pom.xml" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/node_modules/.bin/vue-cli-service" />
+        <option value="$PROJECT_DIR$/ruoyi-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/java/com/ddb/frontend/MainController.java" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/public/index.html" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/.env.production" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/java/com/ddb/rest/MainController.java" />
+        <option value="$PROJECT_DIR$/ruoyi/pom.xml" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/common/MainController.java" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/system/controller/SysLoginController.java" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/MainController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/vue.config.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/settings.js" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/layout/components/Navbar.vue" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/package.json" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/layout/components/Sidebar/Logo.vue" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/views/login.vue" />
+        <option value="$PROJECT_DIR$/ruoyi/src/main/resources/application-druid.yml" />
+        <option value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/router/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/Maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ruoyi-frontend/nodejs/node/node_modules" />
+    <handled-path value="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruoyi-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruoyi-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruoyi-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruoyi-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diandabai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruoyi-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+    <property name="GO_FMT" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ruoyi" />
+      <recent name="com.ruoyi.framework.redis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ruoyi/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ruoyi-ui" />
+      <recent name="$PROJECT_DIR$/ruoyi-frontend/src/main/frontend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RuoYiApplication">
+    <configuration default="false" name="RedisCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ruoyi.framework.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ruoyi.framework.redis.RedisCache" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ruoyi" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RuoYi-Vue" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="RuoYi-Vue" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RuoYi-Vue" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RuoYiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.RuoYiApplication" />
+      <module name="ruoyi" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.RuoYiApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RedisCache" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.RedisCache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e7e10c8-6a23-437b-a812-dbaade93a919" name="Default" comment="" />
+      <changelist id="02bf6272-ea91-4f40-b98d-2605356cd4f0" name="New changelist" comment="" />
+      <created>1580570889098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580570889098</updated>
+      <workItem from="1580570890541" duration="7666000" />
+      <workItem from="1580618001569" duration="4101000" />
+      <workItem from="1580652021164" duration="5572000" />
+      <workItem from="1580658396717" duration="3365000" />
+      <workItem from="1580661832205" duration="1192000" />
+      <workItem from="1580663052750" duration="4907000" />
+      <workItem from="1580701759955" duration="3133000" />
+    </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1580703302158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580703302158</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新">
+      <created>1580704997400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580704997400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新">
+      <created>1580705733422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580705733422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29936000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33360258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31506848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41917807" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3739903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58832115" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49676898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/ruoyi-ui/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/ruoyi-ui/node_modules/.bin/vue-cli-service" />
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/build/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/node_modules/.bin/vue-cli-service">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-ui/package.json" />
+    <entry file="file://$PROJECT_DIR$/ruoyi-ui/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/ruoyi-ui/README.md" />
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/web/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/datasource/DynamicDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#617#618#0" expanded="false" />
+            <element signature="e#690#691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1586#1594#0" expanded="false" />
+            <element signature="e#1757#1765#0" expanded="false" />
+            <element signature="e#3025#3033#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/java/com/ddb/frontend/MainController.java" />
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/common/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="39" column="5" selection-start-line="37" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/system/controller/SysConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/system/controller/SysRoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/tool/gen/controller/GenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1682">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/web/domain/AjaxResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/monitor/controller/SysLogininforController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/monitor/controller/ServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/common/CaptchaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4643#4644#0" expanded="false" />
+            <element signature="e#4693#4694#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/resources/static/static/js/app.02b44410.js" />
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/resources/static/index.html" />
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/.env.development">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/.env.production">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#418#419#0" expanded="false" />
+            <element signature="e#501#502#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="0" selection-start-column="261" selection-end-line="0" selection-end-column="272" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddb-feature/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/framework/datasource/DynamicDataSourceContextHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="78" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#746#747#0" expanded="false" />
+            <element signature="e#789#790#0" expanded="false" />
+            <element signature="e#872#873#0" expanded="false" />
+            <element signature="e#911#912#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/RuoYiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/project/system/controller/SysLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/java/com/ruoyi/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#418#419#0" expanded="false" />
+            <element signature="e#501#502#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/layout/components/Navbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1580702358000" expanded="true" signature="380:543" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-735">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/layout/components/Sidebar/Logo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/views/login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/sql/ry_20191202.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="674" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/resources/application-druid.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi-frontend/src/main/frontend/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="91" column="7" selection-start-line="91" selection-start-column="7" selection-end-line="91" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruoyi/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ruoyi-frontend</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
